@@ -1,0 +1,17 @@
+requests
+python-dotenv
+Flask
+Flask-JWT-Extended
+Flask-RESTful
+Flask-SQLAlchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+psycopg2
+psycopg2-binary
+Flask-OAuthlib
+python-slugify
+Flask-Reuploaded
+flask-migrate
+Flask-CORS
+gunicorn

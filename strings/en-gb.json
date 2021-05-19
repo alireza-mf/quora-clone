@@ -1,0 +1,34 @@
+{
+  "mailgun_failed_load_api_key": "Failed to load MailGun API key.",
+  "mailgun_failed_load_domain": "Failed to load MailGun domain.",
+  "mailgun_error_send_email": "Error in sending confirmation email, user registration failed.",
+
+  "confirmation_not_found": "Confirmation reference not found.",
+  "confirmation_link_expired": "The link has expired.",
+  "confirmation_already_confirmed": "Registration has already been confirmed.",
+  "confirmation_resend_fail": "Internal server error. Failed to resend confirmation email.",
+  "confirmation_resend_successful": "E-mail confirmation successfully re-sent.",
+
+  "user_not_found": "User not found",
+  "server_error": "Internal server error",
+
+  "answer_not_found": "Answer not found.",
+  "answer_deleted": "Answer deleted.",
+
+  "question_not_found": "The question '{}' not found.",
+  "question_deleted": "Question deleted.",
+
+  "user_email_exists": "A user with that email already exists.",
+  "user_deleted": "User deleted.",
+  "user_invalid_credentials": "Invalid credentials!",
+  "user_logged_out": "User <id={user_id}> successfully logged out.",
+  "user_not_confirmed": "You have not confirmed registration, please check your email <{}>.",
+  "user_error_creating": "Internal server error. Failed to create user.",
+  "user_registered": "Account created successfully, an email with an activation link has been sent to your email address, please check.",
+  "user_password_updated": "User password successfully updated.",
+
+  "image_illegal_extension": "Extension '{}' is not allowed.",
+  "avatar_delete_failed": "Internal server error! Failed to delete avatar.",
+  "avatar_uploaded": "Avatar '{}' uploaded.",
+  "avatar_not_found": "Avatar not found."
+}
